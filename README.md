@@ -16,7 +16,6 @@ I enjoy building things from experiments and research to products, visuals and i
 
 When the code gets quiet, I design — Illustrator, motion and the occasional freelance brief.
 
-- KLE Tech, Belagavi · Class of 2027
 - Open to opportunities
 
 ## Stuff I've built
