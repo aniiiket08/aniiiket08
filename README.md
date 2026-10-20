@@ -10,8 +10,7 @@
 
 I'm a final-year Computer Science and AI student at KLE Technological University, Belagavi.
 
-I work across software systems, multi-agent orchestration, embedded technologies and RF/SDR, 
-alongside applied research in machine learning and computational biology.
+My work spans software systems, multi-agent orchestration, embedded systems and RF/SDR, with research in machine learning and computational biology.
 
 When the code gets quiet, I design - Illustrator, motion and the occasional freelance brief.
 
