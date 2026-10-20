@@ -8,11 +8,9 @@
 
 ## About me
 
-I'm a final-year Computer Science student at KLE Technological University, Belagavi.
+I'm a final-year Computer Science and AI student at KLE Technological University, Belagavi.
 
-Most of what I build sits at the intersection of software, embedded systems and AI — turning ideas into practical systems through code, hardware and intelligent models.
-
-I enjoy building things from experiments and research to products, visuals and interactive experiences.
+I work across software systems, multi-agent orchestration, embedded technologies and RF/SDR, alongside applied research in machine learning and computational biology.
 
 When the code gets quiet, I design — Illustrator, motion and the occasional freelance brief.
 
