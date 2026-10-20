@@ -46,7 +46,7 @@ Prostate cancer detection from histopathology images. GLCM + LBP texture feature
 
 <a href="https://github.com/aniiiket08?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/fig-03.svg"><img align="right" src="assets/light/fig-03.svg" width="230" alt="Meeting Organizer Agent"/></picture></a>
 
-### [Meeting Organizer Agent](https://github.com/aniiiket08?tab=repositories) &nbsp;<img src="https://img.shields.io/badge/status-new-A99BE8?style=flat-square&labelColor=30363d" alt="status new"/>
+### [Meeting Workflow Engine](https://github.com/aniiiket08?tab=repositories) &nbsp;<img src="https://img.shields.io/badge/status-new-A99BE8?style=flat-square&labelColor=30363d" alt="status new"/>
 
 An agent that takes a meeting from scheduling to signed-off minutes and tracked action items. Worklet 4 of the Agentic AI lab course.
 
